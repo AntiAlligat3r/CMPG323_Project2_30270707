@@ -1,0 +1,22 @@
+{
+  "name": "cmpg323_project2_30270707",
+  "version": "1.0.0",
+  "description": "My (Donovan Heunis 30270707) Project 2 of CMPG323",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntiAlligat3r/CMPG323_Project2_30270707.git"
+  },
+  "author": "Donovan 'AntiAlligat3r' Heunis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntiAlligat3r/CMPG323_Project2_30270707/issues"
+  },
+  "homepage": "https://github.com/AntiAlligat3r/CMPG323_Project2_30270707#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
